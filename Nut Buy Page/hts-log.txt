@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 May 2022 14:44:34 at https://pear10973014.brizy.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pear10973014.brizy.site/ -O1 "C:\Users\teddk\OneDrive\Pictures\NUT University\Nut Buy Page" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 11 links scanned, 10 files written (1027513 bytes overall) [575664 bytes received at 71958 bytes/sec], 605999 bytes transferred using HTTP compression in 5 files, ratio 23%, 2.2 requests per connection
+(No errors, 0 warnings, 0 messages)
